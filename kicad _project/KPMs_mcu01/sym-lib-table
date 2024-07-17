@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "user")(type "Legacy")(uri "D:/KeyboardMaking/kicad-library-master/kicad-library-master/user.lib")(options "")(descr ""))
+  (lib (name "promicro")(type "Legacy")(uri "D:/KeyboardMaking/ProMicroKiCad-master/ProMicroKiCad-master/promicro_library/promicro.lib")(options "")(descr ""))
+)
