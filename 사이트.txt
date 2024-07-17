@@ -1,0 +1,89 @@
+
+제작 블로그
+https://velog.io/@joshuara7235/%EC%8A%A4%ED%94%8C%EB%A6%BF-%ED%82%A4%EB%B3%B4%EB%93%9C%EB%A5%BC-%EC%A0%9C%EC%9E%91%ED%95%98%EB%8B%A4
+
+키코드
+https://github.com/qmk/qmk_firmware/blob/master/docs/keycodes.md
+
+qmk_toolbox
+https://github.com/qmk/qmk_toolbox/releases/tag/0.2.2
+
+pcb 기판설계 참고자료들
+https://gura7060.tistory.com/2
+
+qmk 컨피규레이터
+https://kbdlab.co.kr/index.php?mid=board_sw&document_srl=6340088
+
+키보드 펌웨어 빌더
+ https://naudhizb.tistory.com/1037
+https://kbfirmware.com/
+
+플레이트 케이스 빌더 
+http://builder.swillkb.com/
+
+pcb 떠서 키보드 만들어 보기 
+https://www.clien.net/service/board/lecture/16615720
+
+자작 키보드 고인물
+https://blog.naver.com/cosmosalad/223264857231
+
+github 제작 설명
+https://github.com/ruiqimao/keyboard-pcb-guide?tab=readme-ov-file
+
+키보드 레이아웃 에디터!!!!
+http://www.keyboard-layout-editor.com/
+
+키보드 레이아웃 자동배지 툴
+http://keyboard-tools.xyz/
+
+pcb 키보드 레이아웃 자동배치 플러그인!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+https://blog.naver.com/cosmosalad/223266626905
+
+qmk rp2040 제작방법
+https://kbddiary.tistory.com/82
+
+qmk
+https://github.com/ReGenBot03/Ergorox50/tree/main/Code
+
+보강판 설계
+https://kbplate.ai03.com/
+                      
+ph2.0 jst terminal - https://ko.aliexpress.com/item/1005006227685119.html?spm=a2g0o.productlist.main.5.6fbeop2top2tC3&algo_pvid=b7f3481b-bf96-44fb-a86f-1c015d66eb89&aem_p4p_detail=202402012244114357065091551000000043804&algo_exp_id=b7f3481b-bf96-44fb-a86f-1c015d66eb89-2&pdp_npi=4%40dis%21KRW%212595%211898%21%21%211.90%211.39%21%402101d69b17068562505277654ef8aa%2112000036378500686%21sea%21KR%212663096204%21&curPageLogUid=cQ95Ps7e2ChU&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202402012244114357065091551000000043804_3
+
+PH2.0 - https://ko.aliexpress.com/item/4001235017139.html?spm=a2g0o.productlist.main.1.2fb72cacxUqkTA&algo_pvid=3068ad45-3c3a-4ec7-a55f-b659ef734200&aem_p4p_detail=202402020111062054916726477440000087476&algo_exp_id=3068ad45-3c3a-4ec7-a55f-b659ef734200-0&pdp_npi=4%40dis%21KRW%211120%211038%21%21%210.82%210.76%21%402103252e17068650657716719e2fea%2110000015400386614%21sea%21KR%212663096204%21&curPageLogUid=BBPq2CJJBZNP&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202402020111062054916726477440000087476_1
+
+	- https://ko.aliexpress.com/item/1005001649158434.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.5.6cafSpKBSpKBge&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40000.326746.0&scm_id=1007.40000.326746.0&scm-url=1007.40000.326746.0&pvid=f77cf57b-997f-4c8d-ad7c-5c3e8600e021&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40000.326746.0,pvid:f77cf57b-997f-4c8d-ad7c-5c3e8600e021,tpp_buckets:668%232846%238111%23410&pdp_npi=4%40dis%21KRW%211530%211298%21%21%211.12%210.95%21%402101585c17068662977026516e2ec7%2112000016976908168%21rec%21KR%212663096204%21&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A&search_p4p_id=20240202013137764257320059036724506_0
+
+커넥터 헤더(SMT : PCB 표면 납땜)- B4B-PH-SM4-TBT(LF)(SN)
+커넥터 하우징() - PHR-4, PH-4Y?
+
+포지셔닝 도구 : 레퍼런스 핫스왑 오른쪽 아래.	x 8  /  y 1
+
+마그네틱 포고핀
+-https://ko.aliexpress.com/item/1005003233677844.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.258bWGF2WGF2kG&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=106aa94d-7d86-47c2-a68b-01022fb6cee4&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:106aa94d-7d86-47c2-a68b-01022fb6cee4,tpp_buckets:668%232846%238108%231977&isseo=y&pdp_npi=4%40dis%21KRW%211128%211073%21%21%210.82%210.78%21%402140e84617093569172124081e2b89%2112000032978683788%21rec%21KR%212663096204%21&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A
+-https://ko.aliexpress.com/item/1005005547670187.html?spm=a2g0o.detail.pcDetailBottomMoreOtherSeller.48.445b1AnP1AnP98&gps-id=pcDetailBottomMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=4f7f4f7d-f4f0-46a7-9650-d313dc6491fd&_t=gps-id:pcDetailBottomMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:4f7f4f7d-f4f0-46a7-9650-d313dc6491fd,tpp_buckets:668%232846%238109%231935&isseo=y&pdp_npi=4%40dis%21KRW%213286%212832%21%21%212.39%212.06%21%402140e84617093568698572028e2b89%2112000033492240662%21rec%21KR%212663096204%21&utparam-url=scene%3ApcDetailBottomMoreOtherSeller%7Cquery_from%3A
+
+fn_left, right 		- 	8p 수 2	(bottom_left, right 와 연결)
+bottom_left, right 	- 	8p 암 2	(fn_left, right 와 연결)
+
+					17p 수	(2줄 17(8x9)pin 포고핀으로 변경)
+
+					7p 암 2	(기판 분리형으로(col1~7))
+					7p 수 2	(기판 분리형으로(col1~7))
+					5p 암 2	(기판 분리형으로(row1~5))
+					5p 수 2	(기판 분리형으로(row1~5))
+
+navikey			-	8p 암, 수 	(기판 분리형)	
+numkey			-	9p 암, 수 	(기판 분리형)
+				-	17p 암	(2줄 17(8x9)pin 포고핀으로 변경)
+	
+=> 	9p 암2 수2	(numkey)
+	8p 암2 수2 (fn)
+	7p 암4 수4 (navi, pcb)
+	5p 암2 수2 (pcb)
+
+전자물품 쇼핑
+-https://smartstore.naver.com/openidea/products/4856847921
+
+
+
